@@ -17,7 +17,7 @@ components compiled by vinext/Vite for the frontend.
 
 | Resource | Link |
 | --- | --- |
-| Live application | `TBD - add the public production URL` |
+| Live application | https://offerguard-student-safety-2026.vishal162.chatgpt.site |
 | Public GitHub repository | [github.com/Developer-CTRL-ALT/offer-guard](https://github.com/Developer-CTRL-ALT/offer-guard) |
 | Demo video | `TBD - add the public or unlisted video URL` |
 
